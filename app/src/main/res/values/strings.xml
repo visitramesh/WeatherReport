@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VRK WeatherReport</string>
+    <string name="humidity">Humidity : </string>
+    <string name="temparature">Temrature : </string>
+    <string name="max_teparature">Max Tmp : </string>
+    <string name="min_temparature">Min Tmp : </string>
+    <string name="Name">City Name : </string>
+</resources>
